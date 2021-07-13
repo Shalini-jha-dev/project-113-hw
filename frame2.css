@@ -1,0 +1,43 @@
+#header{
+    width: 600;
+    height: 70;
+    margin-top: 5px;
+    font-size: 40px;
+    background-color: bisque;
+    color: black;
+    font-family: 'Zen Loop', cursive;
+}
+
+.note{
+    color: red;
+    font-size: 30px;
+}
+
+h3
+{
+  font-size: 25px !important;
+}
+canvas {
+    border:1px solid white;
+    margin-bottom: 5px;
+}
+
+.photo{
+    width: 400;
+    height: 40;
+    margin-top: 5px;
+    font-size: 30px;
+    background-color: rgb(255, 251, 0);
+    color: black;
+    font-family: 'Zen Loop', cursive;
+}
+
+.filter{
+    width: 300;
+    height: 70;
+    margin-top: 5px;
+    font-size: 40px;
+    background-color: rgb(0, 217, 255);
+    color: black;
+    font-family: 'Zen Loop', cursive;
+}
